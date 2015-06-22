@@ -11,7 +11,7 @@ http://grimrose.github.io/jjug-2015-reactive-streams
 
 ## ライセンス
 
-Copyright &copy; 2014 grimrose  
+Copyright &copy; 2015 grimrose  
 
 Distributed under the [MIT License][mit].  
 
