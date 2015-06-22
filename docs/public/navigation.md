@@ -1,4 +1,4 @@
-[Home](/)
+[Home](index.md)
 [インターフェースについて](contents/interface.md)
 [ReactiveStreamsとRxJava](contents/rxjava.md)
 [連携の紹介](contents/collaboration.md)
