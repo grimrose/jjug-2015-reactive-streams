@@ -1,6 +1,6 @@
 # その他の実装
 
-## Reactive Streamsに載っているもの
+## Reactive Streamsの公式に載っているもの
 
 [Implementations] より。
 

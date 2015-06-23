@@ -37,3 +37,8 @@
 * Sample code for article on akka-streams and backpressure visualization
 
   https://github.com/josdirksen/akka-back-pressure
+
+  ## Reactor
+
+
+  > <iframe src="//www.slideshare.net/slideshow/embed_code/key/ixVuNjvp0w2RAi" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/StphaneMaldini/meetup-stockholm-2015dswithreactorandreactivestreams" title="Designing for Distributed Systems with Reactor and Reactive Streams" target="_blank">Designing for Distributed Systems with Reactor and Reactive Streams</a> </strong> from <strong><a href="//www.slideshare.net/StphaneMaldini" target="_blank">Stéphane Maldini</a></strong> </div>
