@@ -14,11 +14,11 @@
 
 * Reactive Streams with Rx at JavaOne 2014 by Ben Christensen
 
-  https://speakerdeck.com/benjchristensen/reactive-streams-with-rx-at-javaone-2014
+  > <script async class="speakerdeck-embed" data-id="dd1770b02a5b0132958e166834114127" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 * Retrofit and RxJava (Netflix Open Source Meetup S02E02 07/2014)
 
-  https://speakerdeck.com/jakewharton/2014-1
+  > <script async class="speakerdeck-embed" data-id="39bd0c30e6fc0131c90a3abb8f5e9337" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 * Retrofit + RxJava in Java
 
